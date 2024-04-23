@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>about</title>
+        <title>contact</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -32,8 +32,7 @@
             @endif
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
-                test
-                <h1>{{$age}}</h1>
+                test contact
             </div>
         </div>
     </body>
